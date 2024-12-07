@@ -1,0 +1,1 @@
+This example demonstrates a common error when working with the `arguments` object in ActionScript 3 functions. The code attempts to access `arguments.length` directly within a function without passing any arguments, leading to unexpected results. The solution shows the correct way to handle such situations.
